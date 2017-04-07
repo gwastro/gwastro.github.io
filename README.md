@@ -1,8 +1,6 @@
 ## PyCBC
 
-You can use the [editor on GitHub](https://github.com/ligo-cbc/ligo-cbc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ongoing analysis of LIGO/Virgo data.  
 
 ### Documentation
 
