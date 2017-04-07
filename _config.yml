@@ -1,4 +1,4 @@
-repository: ligo-cbc/pycbc
+github: [repository=ligo-cbc/pycbc]
 title: PyCBC
 theme: jekyll-theme-slate
 show-downloads: true
