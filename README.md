@@ -4,4 +4,4 @@ Analyze gravitational-wave data, find signals, and study their parameters. This 
 
 ### Documentation
 
-[documentation](ligo-cbc.github.io/pycbc/latest/html/)
+[documentation](pycbc/latest/html/)
