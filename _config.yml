@@ -1,2 +1,4 @@
 title: PyCBC
 theme: jekyll-theme-slate
+show-downloads: true
+site.github.repository_url='https://github.com/ligo-cbc/'
