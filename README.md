@@ -8,7 +8,7 @@ The easiest way to start using PyCBC is to install one of our [Docker containers
 <script type="text/javascript">
 	document.addEventListener("DOMContentLoaded", function(){
 		Typed.new(".element", {
-			strings: ["^500<b>docker pull pycbc/pycbc-el7:v1.7.0</b><br>$ ^500<b>docker run -it pycbc/pycbc-el7:v1.7.0 /bin/bash -l</b><br>&#40;pycbc-software&#41;&#91;pycbc@37184573e664 &#126;&#93;$ ^500<b>python</b><br>Python 2.7.5 &#40;default, Nov  6 2016, 00:28:07&#41;<br>&#91;GCC 4.8.5 20150623 &#40;Red Hat 4.8.5-11&#41;&#93; on linux2<br>&gt;&gt;&gt; ^500<b>import pycbc.version</b><br>&gt;&gt;&gt; ^500<b>print pycbc.version.git_tag</b><br>v1.7.0<br>&gt;&gt;&gt; ^500<b>import lal.git_version</b><br>&gt;&gt;&gt; ^500<b>print lal.git_version.id</b><br>539c8700af92eb6dd00e0e91b9dbaf5bae51f004<br>&gt;&gt;&gt; "],
+			strings: ["^500<strong>docker pull pycbc/pycbc-el7:v1.7.0</strong><br>$ ^500<strong>docker run -it pycbc/pycbc-el7:v1.7.0 /bin/bash -l</strong><br>&#40;pycbc-software&#41;&#91;pycbc@37184573e664 &#126;&#93;$ ^500<strong>python</strong><br>Python 2.7.5 &#40;default, Nov  6 2016, 00:28:07&#41;<br>&#91;GCC 4.8.5 20150623 &#40;Red Hat 4.8.5-11&#41;&#93; on linux2<br>&gt;&gt;&gt; ^500<strong>import pycbc.version</strong><br>&gt;&gt;&gt; ^500<strong>print pycbc.version.git_tag</strong><br>v1.7.0<br>&gt;&gt;&gt; ^500<strong>import lal.git_version</strong><br>&gt;&gt;&gt; ^500<strong>print lal.git_version.id</strong><br>539c8700af92eb6dd00e0e91b9dbaf5bae51f004<br>&gt;&gt;&gt; "],
 			typeSpeed: 0
 		});
 	});
