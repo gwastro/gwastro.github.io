@@ -4,7 +4,7 @@ PyCBC is a package used by LIGO to analyze gravitational-wave data, tease out th
 <script type="text/javascript">
 	document.addEventListener("DOMContentLoaded", function(){
 		Typed.new(".element", {
-			strings: ["docker pull pycbc/pycbc-el7^1000<br>$ docker run -it pycbc/pycbc-el7 /bin/bash -l^1000<br>&#40;pycbc-software&#41;&#91;pycbc@37184573e664 &#126;&#93;$ python^500<br>Python 2.7.5 &#40;default, Nov  6 2016, 00:28:07&#41;<br>&91;GCC 4.8.5 20150623 &40;Red Hat 4.8.5-11&41;&93; on linux2<br>Type "help", "copyright", "credits" or "license" for more information.<br>&gt;&gt;&gt; ^1000import pycbc.version<br>&gt;&gt;&gt; ^1000print pycbc.version.git_hash<br>5682af7e90d1bb5069bfec19c6f2237f67b20edc"],
+			strings: ["docker pull pycbc/pycbc-el7^1000<br>$ docker run -it pycbc/pycbc-el7 /bin/bash -l^1000<br>&#40;pycbc-software&#41;&#91;pycbc@37184573e664 &#126;&#93;$ python^500<br>Python 2.7.5 &#40;default, Nov  6 2016, 00:28:07&#41;<br>&91;GCC 4.8.5 20150623 &40;Red Hat 4.8.5-11&41;&93; on linux2<br>&gt;&gt;&gt; ^1000import pycbc.version<br>&gt;&gt;&gt; ^1000print pycbc.version.git_hash<br>5682af7e90d1bb5069bfec19c6f2237f67b20edc"],
 			typeSpeed: 0
 		});
 	});
