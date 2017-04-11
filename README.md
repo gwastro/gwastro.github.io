@@ -10,7 +10,13 @@ PyCBC is a package used by LIGO to analyze gravitational-wave data, tease out th
 	});
 </script>
 
-<span class="element"></span>
+<div class="text-editor-wrap">
+		<div class="title-bar"><span class="title">pycbc &mdash; bash &mdash; 80x<span class="terminal-height">25</span></span></div>
+		<div class="text-body">
+			$ <span class="element"></span>
+		</div>
+</div>
+
 
 ### Documentation
 
