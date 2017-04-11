@@ -50,7 +50,12 @@
 	</script>
 
   <style media="screen" type="text/css">
-/* text editor styles */
+ .typed-fade-out{
+    opacity: 0;
+    animation: 0;
+    transition: opacity .25s;
+}
+
 .text-editor-wrap {
   display: block;
   margin: auto;
@@ -121,15 +126,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-	      
- 	<div class="text-editor-wrap">
-		<div class="title-bar"><span class="title">pycbc &mdash; bash &mdash; 80x<span class="terminal-height">25</span></span></div>
-		<div class="text-body">
-			$ <span id="typed"></span>
-		</div>
-	</div>
-	      
-        {{ content }}
+	      {{ content }}
       </section>
     </div>
 
