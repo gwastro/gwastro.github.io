@@ -4,7 +4,7 @@ PyCBC is a package used by LIGO to analyze gravitational-wave data, tease out th
 <script type="text/javascript">
 	document.addEventListener("DOMContentLoaded", function(){
 		Typed.new(".element", {
-			strings: ["docker pull pycbc/pycbc-el7^1000 \n$ docker run -it pycbc/pycbc-el7 /bin/bash -l"],
+			strings: ["docker pull pycbc/pycbc-el7^1000 <br>$ docker run -it pycbc/pycbc-el7 /bin/bash -l"],
 			typeSpeed: 0
 		});
 	});
