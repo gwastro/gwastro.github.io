@@ -14,41 +14,6 @@
     
     <title>{{ site.title | default: site.github.repository_name }}</title>
     
-   	<script>
-	$(function(){
-
-		$("#typed").typed({
-			strings: ["docker pull pycbc/pycbc-el7", "docker run -it pycbc/pycbc-el7 /bin/bash -l"],
-			typeSpeed: 30,
-      callback: function(){
-        shift();
-      }
-		});
-
-	});
-  function shift(){
-      $(".head-wrap").addClass("shift-text");
-      terminalHeight();
-  }
-
-  function terminalHeight(){
-      var termHeight = $(".terminal-height");
-      var value = termHeight.text();
-      value = parseInt(value);
-      setTimeout(function(){
-          if (value > 10){
-              value = value-1;
-              this.txtValue = value.toString();
-              termHeight.text(this.txtValue);
-              self.terminalHeight();
-          }
-          else{
-              clearTimeout();
-          }
-      }, 10);
-  }
-	</script>
-
   <style media="screen" type="text/css">
  .typed-fade-out{
     opacity: 0;
