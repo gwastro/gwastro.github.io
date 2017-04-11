@@ -26,8 +26,6 @@ The easiest way to start using PyCBC is to install one of our [Docker containers
 
 See the [latest documentation](pycbc/latest/html/) built from the [source code](https://github.com/ligo-cbc/pycbc)
 
-## Status
-
 [![PyPI version](https://badge.fury.io/py/PyCBC.svg)](https://badge.fury.io/py/PyCBC)
 [![Build Status](https://travis-ci.org/ligo-cbc/pycbc.svg?branch=master)](https://travis-ci.org/ligo-cbc/pycbc)
 [![Code Health](https://landscape.io/github/ligo-cbc/pycbc/master/landscape.svg?style=flat)](https://landscape.io/github/ligo-cbc/pycbc/master)
