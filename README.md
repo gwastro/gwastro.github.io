@@ -42,8 +42,8 @@ If you use PyCBC in your scientific publications or projects, we ask that you ac
  * [Binary Black Hole Mergers in the first Advanced LIGO Observing Run.](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.041015)
 
 #### Methods ####
- * [The PyCBC search for gravitational waves from compact binary coalescence.](http://iopscience.iop.org/article/10.1088/0264-9381/33/21/215004/meta;jsessionid=287B432D6C1C3583375F20A3C7EE6DD8.ip-10-40-1-105) Availble free at [arXiv:1508.02357](https://arxiv.org/abs/1508.02357)
- * [Implementing a search for aligned-spin neutron star-black hole systems with advanced ground based gravitational wave detectors.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.082004) Available free at [arXiv:1405.6731](https://arxiv.org/abs/1405.6731)
+ * [The PyCBC search for gravitational waves from compact binary coalescence.](http://iopscience.iop.org/article/10.1088/0264-9381/33/21/215004/meta;jsessionid=287B432D6C1C3583375F20A3C7EE6DD8.ip-10-40-1-105) Free preprint at [arXiv:1508.02357](https://arxiv.org/abs/1508.02357)
+ * [Implementing a search for aligned-spin neutron star-black hole systems with advanced ground based gravitational wave detectors.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.082004) Free preprint at [arXiv:1405.6731](https://arxiv.org/abs/1405.6731)
 
 ## In the News
 
