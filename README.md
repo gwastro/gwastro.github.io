@@ -6,7 +6,17 @@ PyCBC is a software package used to explore astrophysical sources of gravitation
 [![Research software impact](http://depsy.org/api/package/pypi/PyCBC/badge.svg)](http://depsy.org/package/python/PyCBC)
 
 ## Scientific Publications
-Please site using the [guidelines here](http://ligo-cbc.github.io/pycbc/latest/html/credit.html) if you use PyCBC in your publications or reference our work.
+
+#### Results ####
+ * [Observation of Gravitational Waves from a Binary Black Hole Merger ](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
+ * [GW151226: Observation of Gravitational Waves from a 22-Solar-Mass Binary Black Hole Coalescence](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.241103)
+ * [Binary Black Hole Mergers in the first Advanced LIGO Observing Run](https://arxiv.org/abs/1606.04856v3)
+
+#### Methods ####
+ * [The PyCBC search for gravitational waves from compact binary coalescence](https://arxiv.org/abs/1508.02357)
+ * [Implementing a search for aligned-spin neutron star -- black hole systems with advanced ground based gravitational wave detectors](https://arxiv.org/abs/1405.6731)
+
+Please cite using the [guidelines here](http://ligo-cbc.github.io/pycbc/latest/html/credit.html) if you use PyCBC in your publications or reference our work.
 
 ## In the News
 
