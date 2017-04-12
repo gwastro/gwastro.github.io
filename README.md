@@ -1,4 +1,4 @@
-PyCBC is a software package used to explore astrophysical sources of gravitational waves. It contains algorithms that can detect signals using LIGO and measure the astrophysical parameters of detected sources. PyCBC was used in the [first direct detection of gravitational waves by LIGO](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102) and is used in the ongoing analysis of LIGO and Virgo data. The PyCBC software was recently featured in [Physics World](http://live.iop-pp01.agh.sleek.net/2017/02/26/why-we-should-give-credit-to-code%E2%80%AFcreators/) as a good example of a large collaboration publishing its research products, including its software.
+PyCBC is a software package used to explore astrophysical sources of gravitational waves. It contains algorithms that can detect signals using LIGO and measure the astrophysical parameters of detected sources. PyCBC was used in the [first direct detection of gravitational waves by LIGO](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102) and is used in the ongoing analysis of LIGO and Virgo data.  PyCBC was featured in [Physics World](http://live.iop-pp01.agh.sleek.net/2017/02/26/why-we-should-give-credit-to-code%E2%80%AFcreators/) as a good example of a large collaboration publishing its research products, including its software.
 
 The easiest way to start using PyCBC is to install one of our [Docker containers.](https://hub.docker.com/u/pycbc/) Install the [Docker Community Edition](https://www.docker.com/community-edition) for your [Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description) or [Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows?tab=description) desktop, then type the commands shown below. Docker CE installations for [Linux platforms](https://www.docker.com/community-edition#/download) are also available.
 
@@ -22,7 +22,7 @@ The easiest way to start using PyCBC is to install one of our [Docker containers
 
 ## Documentation
 
-See the [latest documentation](pycbc/latest/html/) built from the [source code](https://github.com/ligo-cbc/pycbc) for more instructions on how to get started, including setting up a Docker container that can display grapics from PyCBC programs.
+See the [latest documentation](pycbc/latest/html/) built from the [source code](https://github.com/ligo-cbc/pycbc) for more instructions on how to get started, including setting up a Docker container that can [display graphics](http://ligo-cbc.github.io/pycbc/latest/html/docker.html) from PyCBC programs.
 
 [![PyPI version](https://badge.fury.io/py/PyCBC.svg)](https://badge.fury.io/py/PyCBC)
 [![Build Status](https://travis-ci.org/ligo-cbc/pycbc.svg?branch=master)](https://travis-ci.org/ligo-cbc/pycbc)
