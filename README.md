@@ -31,7 +31,7 @@ The easiest way to start using PyCBC is to install one of our [Docker containers
 
 See the [latest documentation](pycbc/latest/html/) built from the [source code](https://github.com/ligo-cbc/pycbc) for more instructions on how to get started, including setting up a Docker container that can [display graphics](http://ligo-cbc.github.io/pycbc/latest/html/docker.html) from PyCBC programs.
 
-If you use PyCBC in your scientific publications or projects, we ask that you acknowlege our work by citing the papers that describe the software and our DOI [![DOI](https://zenodo.org/badge/31596861.svg)](https://zenodo.org/badge/latestdoi/31596861) as described in the
+If you use PyCBC in your scientific publications or projects, we ask that you acknowlege our work by citing the publications that describe the PyCBC and the software's [digital object identifier](https://zenodo.org/badge/latestdoi/31596861) as described in the
  [PyCBC citation guidelines.](http://ligo-cbc.github.io/pycbc/latest/html/credit.html)
 
 Please cite using the [guidelines here] if you use PyCBC in your publications or reference our work.
