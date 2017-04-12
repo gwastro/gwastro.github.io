@@ -34,8 +34,6 @@ See the [latest documentation](pycbc/latest/html/) built from the [source code](
 If you use PyCBC in your scientific publications or projects, we ask that you acknowlege our work by citing the publications that describe the PyCBC and the software's [digital object identifier](https://zenodo.org/badge/latestdoi/31596861) as described in the
  [PyCBC citation guidelines.](http://ligo-cbc.github.io/pycbc/latest/html/credit.html)
 
-Please cite using the [guidelines here] if you use PyCBC in your publications or reference our work.
-
 ## Scientific Publications
 
 #### Results ####
