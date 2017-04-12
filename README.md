@@ -30,20 +30,24 @@ The easiest way to start using PyCBC is to install one of our [Docker containers
 
 See the [latest documentation](pycbc/latest/html/) built from the [source code](https://github.com/ligo-cbc/pycbc) for more instructions on how to get started, including setting up a Docker container that can [display graphics](http://ligo-cbc.github.io/pycbc/latest/html/docker.html) from PyCBC programs.
 
+Please cite using the [guidelines here](http://ligo-cbc.github.io/pycbc/latest/html/credit.html) if you use PyCBC in your publications or reference our work.
+
 ## Scientific Publications
 
 #### Results ####
  * [Observation of Gravitational Waves from a Binary Black Hole Merger ](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
  * [GW151226: Observation of Gravitational Waves from a 22-Solar-Mass Binary Black Hole Coalescence](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.241103)
- * [Binary Black Hole Mergers in the first Advanced LIGO Observing Run](https://arxiv.org/abs/1606.04856v3)
+ * [Binary Black Hole Mergers in the first Advanced LIGO Observing Run](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.041015)
 
 #### Methods ####
- * [The PyCBC search for gravitational waves from compact binary coalescence](https://arxiv.org/abs/1508.02357)
- * [Implementing a search for aligned-spin neutron star -- black hole systems with advanced ground based gravitational wave detectors](https://arxiv.org/abs/1405.6731)
-
-Please cite using the [guidelines here](http://ligo-cbc.github.io/pycbc/latest/html/credit.html) if you use PyCBC in your publications or reference our work.
+ * [The PyCBC search for gravitational waves from compact binary coalescence](http://iopscience.iop.org/article/10.1088/0264-9381/33/21/215004/meta;jsessionid=287B432D6C1C3583375F20A3C7EE6DD8.ip-10-40-1-105) [arXiv:1508.02357](https://arxiv.org/abs/1508.02357)
+ * [Implementing a search for aligned-spin neutron star -- black hole systems with advanced ground based gravitational wave detectors](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.082004)  [arXiv:1405.6731](https://arxiv.org/abs/1405.6731)
 
 ## In the News
 
- ["Why we should give credit to code creators"](http://iopscience.iop.org/article/10.1088/2058-7058/30/3/37/pdf), March 2017, Physics World
+ * ["Why we should give credit to code creators"](http://iopscience.iop.org/article/10.1088/2058-7058/30/3/37/pdf), March 2017, Physics World.
+  * ["High throughput computing helps LIGO confirm Einstein's last unproven theory"](https://phys.org/news/2016-03-high-throughput-ligo-einstein-unproven.html), March 9, 2016, Phys.org.
+  * [XSEDE Resources Help Confirm LIGO Discovery](https://www.xsede.org/xsede-resources-help-confirm-ligo-discovery), NSF Extreme Science and Engineering Discovery Environment.
+  * [OSG helps LIGO scientists confirm Einstein’s unproven theory](https://www.opensciencegrid.org/osg-helps-ligo-scientists-confirm-einsteins-last-unproven-theory/) 
+  * [Science Powerhouses Unite to Help Search for Gravitational Waves](https://www.tacc.utexas.edu/-/science-powerhouses-unite-to-help-search-for-gravitational-waves), December 3, 2016, TACC press release.
 
