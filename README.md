@@ -1,5 +1,3 @@
-## Getting Started
-
 PyCBC is a software package used to explore astrophysical sources of gravitational waves. It contains algorithms that can detect signals using LIGO and measure the astrophysical parameters of detected sources. PyCBC was used in the first direct detection of gravitational waves (GW150914) and is used in the ongoing analysis of LIGO and Virgo data.
 
 The easiest way to start using PyCBC is to install one of our [Docker containers.](https://hub.docker.com/u/pycbc/) Install the [Docker Community Edition](https://www.docker.com/community-edition) for your [Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description) or [Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows?tab=description) desktop, then type the commands shown below. Docker CE installations for [Linux platforms](https://www.docker.com/community-edition#/download) are also available.
