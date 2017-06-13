@@ -46,6 +46,7 @@ If you use PyCBC in your scientific publications or projects, we ask that you ac
  * [The Rate of Binary Black Hole Mergers Inferred from Advanced LIGO Observations Surrounding GW150914.](http://iopscience.iop.org/article/10.3847/2041-8205/833/1/L1/meta)
  * [Supplement: The Rate of Binary Black Hole Mergers Inferred from Advanced LIGO Observations Surrounding GW150914](http://iopscience.iop.org/article/10.3847/0067-0049/227/2/14/meta)
  * [Binary Black Hole Mergers in the first Advanced LIGO Observing Run.](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.041015)
+  * [GW170104: Observation of a 50-Solar-Mass Binary Black Hole Coalescence at Reshift 0.2](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.221101)
 
 #### Technical and Methods Papers ####
  * Detecting binary compact-object mergers with gravitational waves: Understanding and Improving the sensitivity of the PyCBC search. Free prerint at [arXiv:1705.01513](https://arxiv.org/abs/1705.01513)
