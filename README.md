@@ -49,6 +49,8 @@ If you use PyCBC in your scientific publications or projects, we ask that you ac
   * [GW170104: Observation of a 50-Solar-Mass Binary Black Hole Coalescence at Reshift 0.2](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.221101)
 
 #### Technical and Methods Papers ####
+ * Distinguishing short duration noise transients in LIGO data to improve the PyCBC search for gravitational waves from high mass binary black hole mergers. Free prerint at [arXiv:1709.08974](https://arxiv.org/abs/1709.08974)
+ * Designing a template bank to observe compact binary coalescences in Advanced LIGO's second observing run. Free prerint at [arXiv:1705.01845](https://arxiv.org/abs/1705.01845)
  * Detecting binary compact-object mergers with gravitational waves: Understanding and Improving the sensitivity of the PyCBC search. Free prerint at [arXiv:1705.01513](https://arxiv.org/abs/1705.01513)
  * [The PyCBC search for gravitational waves from compact binary coalescence.](http://iopscience.iop.org/article/10.1088/0264-9381/33/21/215004/meta;jsessionid=287B432D6C1C3583375F20A3C7EE6DD8.ip-10-40-1-105) Free preprint at [arXiv:1508.02357](https://arxiv.org/abs/1508.02357)
  * [Implementing a search for aligned-spin neutron star-black hole systems with advanced ground based gravitational wave detectors.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.082004) Free preprint at [arXiv:1405.6731](https://arxiv.org/abs/1405.6731)
