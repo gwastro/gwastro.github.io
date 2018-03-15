@@ -1,6 +1,7 @@
 ---
 layout: page
 title: main
+permalink: /publications/
 ---
 
 ## Scientific Publications
