@@ -1,7 +1,7 @@
 ---
 layout: about
 title: main
-permalink: /about/
+permalink: /
 ---
 
 ![GW170817](gw170817.png)
