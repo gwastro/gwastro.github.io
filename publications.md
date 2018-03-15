@@ -1,6 +1,5 @@
 ---
-layout: page
-title: main
+layout: default
 permalink: /publications/
 ---
 
