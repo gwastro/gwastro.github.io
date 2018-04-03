@@ -1,9 +1,13 @@
 ---
-layout: default
-permalink: /publications/
+layout: page
+title: Publications
+subtitle: Selected Publications that use PyCBC
 ---
 
 ## Scientific Publications
+
+If you use PyCBC in your scientific publications or projects, we ask that you acknowlege our work by citing the publications that describe  PyCBC and the software's [digital object identifier](https://zenodo.org/badge/latestdoi/31596861), as described in the
+ [PyCBC citation guidelines.](http://ligo-cbc.github.io/pycbc/latest/html/credit.html)
 
 #### Observational Results ####
  * [Observation of Gravitational Waves from a Binary Black Hole Merger.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
@@ -22,7 +26,7 @@ permalink: /publications/
  * [The PyCBC search for gravitational waves from compact binary coalescence.](http://iopscience.iop.org/article/10.1088/0264-9381/33/21/215004/meta;jsessionid=287B432D6C1C3583375F20A3C7EE6DD8.ip-10-40-1-105) Free preprint at [arXiv:1508.02357](https://arxiv.org/abs/1508.02357)
  * [Implementing a search for aligned-spin neutron star-black hole systems with advanced ground based gravitational wave detectors.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.082004) Free preprint at [arXiv:1405.6731](https://arxiv.org/abs/1405.6731)
  * [Validating gravitational-wave detections: The Advanced LIGO hardware injection system.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.062002) Free preprint at [arXiv:1612.07864](https://arxiv.org/abs/1612.07864)
-
+ 
 ## In the News
  * [Python Scientific Use Cases](https://www.datacamp.com/community/blog/python-scientific-computing-case), November 2017, datacamp.com
  * [Why we should give credit to code creators](http://iopscience.iop.org/article/10.1088/2058-7058/30/3/37/pdf), March 2017, Physics World.
