@@ -13,7 +13,7 @@ PyCBC is a software package used to explore astrophysical sources of gravitation
 You can start using the PyCBC library now in an interactive notebook!
 
 [![azure](https://img.shields.io/badge/azure-notebook-pi.svg)](https://notebooks.azure.com/nitz/libraries/pycbc)
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ligo-cbc/binder/master?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwastro/binder/master?filepath=index.ipynb)
 
 The easiest way to start using PyCBC on your computer is to install one of our [Docker containers.](https://hub.docker.com/u/pycbc/) Install the [Docker Community Edition](https://www.docker.com/community-edition) for your [Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description) or [Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows?tab=description) desktop, then type the commands shown below. Docker CE installations for [Linux platforms](https://www.docker.com/community-edition#/download) are also available.
 
@@ -36,7 +36,7 @@ The easiest way to start using PyCBC on your computer is to install one of our [
 
 [![DOI](https://zenodo.org/badge/31596861.svg)](https://zenodo.org/badge/latestdoi/31596861)
 [![PyPI version](https://badge.fury.io/py/PyCBC.svg)](https://badge.fury.io/py/PyCBC)
-[![Build Status](https://travis-ci.org/ligo-cbc/pycbc.svg?branch=master)](https://travis-ci.org/ligo-cbc/pycbc)
-[![Code Health](https://landscape.io/github/ligo-cbc/pycbc/master/landscape.svg?style=flat)](https://landscape.io/github/ligo-cbc/pycbc/master)
+[![Build Status](https://travis-ci.org/ligo-cbc/pycbc.svg?branch=master)](https://travis-ci.org/gwastro/pycbc)
+[![Code Health](https://landscape.io/github/gwastro/pycbc/master/landscape.svg?style=flat)](https://landscape.io/github/gwastro/pycbc/master)
 [![Research software impact](http://depsy.org/api/package/pypi/PyCBC/badge.svg)](http://depsy.org/package/python/PyCBC)
 
