@@ -39,5 +39,3 @@ The easiest way to start using PyCBC on your computer is to install one of our [
 [![PyPI version](https://badge.fury.io/py/PyCBC.svg)](https://badge.fury.io/py/PyCBC)
 [![Build Status](https://travis-ci.org/gwastro/pycbc.svg?branch=master)](https://travis-ci.org/gwastro/pycbc)
 [![Code Health](https://landscape.io/github/gwastro/pycbc/master/landscape.svg?style=flat)](https://landscape.io/github/gwastro/pycbc/master)
-[![Research software impact](http://depsy.org/api/package/pypi/PyCBC/badge.svg)](http://depsy.org/package/python/PyCBC)
-
