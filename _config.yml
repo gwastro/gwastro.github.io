@@ -24,6 +24,7 @@ description: Analyze gravitational-wave data, find signals, and study their para
 # List of links in the navigation bar
 navbar-links:
   Documentation: "http://pycbc.org/pycbc/latest/html/"
+  Tutorials: "tutorials"
   Publications: "publications"
   Github: "http://github.com/ligo-cbc/pycbc"
 
