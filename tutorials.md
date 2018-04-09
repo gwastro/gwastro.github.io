@@ -8,7 +8,7 @@ use-site-title: true
 ## PyCBC: Python Software to Study Gravitational Waves ##
 PyCBC is software developed by a collaboration of LIGO, Virgo, and independent scientists. It is open source and freely available. We use PyCBC in the detection of gravitational waves from binary mergers such as GW150914. These examples explore how to analyze gravitational wave data, how we find potential signals, and learn about them.
 
-These notebooks are available to view, download, or run in interactive sessions.
+These notebooks are available to view, download, or run in interactive sessions. The repository of tutorials along with some additional code examples is [available on github](https://github.com/gwastro/PyCBC-Tutorials).
 
 ### Run tutorials from your browser! ###
 There are two main methods to run tutorials from your browser. 
