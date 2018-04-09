@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PyCBC
-subtitle: Software to study gravitational waves.
+subtitle: Open software to study gravitational waves.
 use-site-title: true
 ---
 
