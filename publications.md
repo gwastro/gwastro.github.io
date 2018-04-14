@@ -7,7 +7,7 @@ subtitle: Selected Publications that use PyCBC
 ## Scientific Publications
 
 If you use PyCBC in your scientific publications or projects, we ask that you acknowlege our work by citing the publications that describe  PyCBC and the software's [digital object identifier](https://zenodo.org/badge/latestdoi/31596861), as described in the
- [PyCBC citation guidelines.](http://ligo-cbc.github.io/pycbc/latest/html/credit.html)
+ [PyCBC citation guidelines.](http://pycbc.org/pycbc/latest/html/credit.html)
 
 #### Observational Results ####
  * [Observation of Gravitational Waves from a Binary Black Hole Merger.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
