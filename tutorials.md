@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PyCBC Tutorials
-subtitle: Learn how to use the PyCBC core library to study gravitationa-wave data!
+subtitle: Learn how to use the PyCBC core library to study gravitational-wave data!
 use-site-title: true
 ---
 
