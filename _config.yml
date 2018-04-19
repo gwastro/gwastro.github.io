@@ -26,6 +26,7 @@ navbar-links:
   Documentation: "http://pycbc.org/pycbc/latest/html/"
   Tutorials: "tutorials"
   Publications: "publications"
+  contact: "contact"
   Github: "http://github.com/gwastro/pycbc"
 
   #Resources:
