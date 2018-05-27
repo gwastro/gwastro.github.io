@@ -22,4 +22,4 @@ There are two main methods to run tutorials from your browser.
 
 2. mybinder
 
-[![Start your mybinder session](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwastro/PyCBC-Tutorials/master?filepath=index.ipynb)
+[![Start your mybinder session](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwastro/PyCBC-Tutorials/master?filepath=index.ipynb)
