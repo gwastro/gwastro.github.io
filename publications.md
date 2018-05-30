@@ -18,6 +18,8 @@ If you use PyCBC in your scientific publications or projects, we ask that you ac
  * [GW170104: Observation of a 50-Solar-Mass Binary Black Hole Coalescence at Reshift 0.2](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.221101)
  * [GW170814: A Three-detector Observation of Gravitational Waves from a Binary Black Hole Coalescence](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.141101)
  * [GW170817: Observation of Gravitational Waves from Binary Neutron Star Inspiral](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101)
+ * [Measuring the viewing angle of GW170817 with electromagnetic and gravitational waves](https://arxiv.org/abs/1804.04179)
+ * [Constraining the nuclear equation of state with GW170817](https://arxiv.org/abs/1804.08583)
 
 #### Technical and Methods Papers ####
  * PyCBC Live: Rapid Detection of Gravitational Waves from Compact Binary Mergers. Free preprint at [arxiv:1805.11174](https://arxiv.org/abs/1805.11174)
