@@ -20,6 +20,7 @@ If you use PyCBC in your scientific publications or projects, we ask that you ac
  * [GW170817: Observation of Gravitational Waves from Binary Neutron Star Inspiral](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101)
 
 #### Technical and Methods Papers ####
+ * PyCBC Live: Rapid Detection of Gravitational Waves from Compact Binary Mergers. Free preprint at [arxiv:1805.11174](https://arxiv.org/abs/1805.11174)
  * Distinguishing short duration noise transients in LIGO data to improve the PyCBC search for gravitational waves from high mass binary black hole mergers. Free prerint at [arXiv:1709.08974](https://arxiv.org/abs/1709.08974)
  * Designing a template bank to observe compact binary coalescences in Advanced LIGO's second observing run. Free prerint at [arXiv:1705.01845](https://arxiv.org/abs/1705.01845)
  * Detecting binary compact-object mergers with gravitational waves: Understanding and Improving the sensitivity of the PyCBC search. Free prerint at [arXiv:1705.01513](https://arxiv.org/abs/1705.01513)
