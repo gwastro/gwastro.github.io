@@ -27,7 +27,7 @@ navbar-links:
       - Documentation: "http://pycbc.org/pycbc/latest/html/"
       - Tutorials: "tutorials"
   Publications: "publications"
-  Mailing List: "contact"
+  Contact: "contact"
   Github: "http://github.com/gwastro/pycbc"
 
   #Resources:
@@ -36,7 +36,7 @@ navbar-links:
   #  - GitHub Pages: "https://pages.github.com/"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/gw170817clean.jpg"
+#avatar: "/img/gw170817clean.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
