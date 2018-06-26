@@ -1,7 +1,6 @@
 ---
 layout: page
-title: PyCBC Tutorials
-subtitle: Signal Consistency and Significance
+title: Signal Consistency and Significance
 use-site-title: true
 ---
 
