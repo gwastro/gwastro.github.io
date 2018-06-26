@@ -1,3 +1,9 @@
+---
+layout: page
+title: PyCBC Tutorials
+subtitle: Learn how to use the PyCBC core library to study gravitational-wave data!
+use-site-title: true
+---
 
 ## 1. PyCBC Tutorial: Accessing the Catalog of Binary Mergers and LIGO/Virgo Open Data
 
@@ -9,83 +15,14 @@ Additional [examples](http://pycbc.org/pycbc/latest/html/#library-examples-and-i
 
 #### Getting the software environment setup
 
-PyCBC is installable through pip, but also relies on portions of the [LALSuite]() c-library. A bundled version of this suitable for use with PyCBC is also available on Mac / Linux through pip. These can be installed as follows within the notebook.
+PyCBC is installable through pip for python2.7, but also relies on portions of the [LALSuite]() c-library. A bundled version of this suitable for use with PyCBC is also available on Mac / Linux through pip. These can be installed as follows within the notebook. For windows, we recommend use
+of our Docker containers or the linux subsystem for windows.
 
 
 ```python
 import sys
 !{sys.executable} -m pip install lalsuite pycbc
 ```
-
-    Collecting lalsuite
-      Using cached lalsuite-6.48.1.dev20180313-cp27-cp27mu-manylinux1_x86_64.whl
-    Requirement already satisfied: pycbc in /home/ahnitz/.local/lib/python2.7/site-packages/PyCBC-3f598d-py2.7.egg
-    Requirement already satisfied: numpy>=1.7 in /home/ahnitz/.local/lib/python2.7/site-packages (from lalsuite)
-    Requirement already satisfied: Mako>=1.0.1 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: argparse>=1.3.0 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: decorator>=3.4.2 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: scipy>=0.13.0 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: weave>=0.16.0 in /home/ahnitz/.local/lib/python2.7/site-packages/weave-0.16.0-py2.7.egg (from pycbc)
-    Requirement already satisfied: unittest2 in /home/ahnitz/.local/lib/python2.7/site-packages/unittest2-1.1.0-py2.7.egg (from pycbc)
-    Requirement already satisfied: matplotlib>=1.3.1 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: pillow in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: h5py>=2.5 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: jinja2 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: astropy==2.0.3 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: mpld3>=0.3 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: pyRXP>=2.1.0 in /home/ahnitz/.local/lib/python2.7/site-packages/pyRXP-2.1.0-py2.7-linux-x86_64.egg (from pycbc)
-    Requirement already satisfied: pycbc-glue-obsolete==1.1.0 in /home/ahnitz/.local/lib/python2.7/site-packages/pycbc_glue_obsolete-1.1.0-py2.7-linux-x86_64.egg (from pycbc)
-    Requirement already satisfied: kombine>=0.8.2 in /home/ahnitz/.local/lib/python2.7/site-packages/kombine-0.8.2-py2.7.egg (from pycbc)
-    Requirement already satisfied: emcee==2.2.1 in /home/ahnitz/.local/lib/python2.7/site-packages/emcee-2.2.1-py2.7.egg (from pycbc)
-    Requirement already satisfied: corner>=2.0.1 in /home/ahnitz/.local/lib/python2.7/site-packages/corner-2.0.1-py2.7.egg (from pycbc)
-    Requirement already satisfied: requests>=1.2.1 in /home/ahnitz/.local/lib/python2.7/site-packages (from pycbc)
-    Requirement already satisfied: beautifulsoup4>=4.6.0 in /home/ahnitz/.local/lib/python2.7/site-packages/beautifulsoup4-4.6.0-py2.7.egg (from pycbc)
-    Requirement already satisfied: MarkupSafe>=0.9.2 in /home/ahnitz/.local/lib/python2.7/site-packages (from Mako>=1.0.1->pycbc)
-    Requirement already satisfied: six>=1.4 in /home/ahnitz/.local/lib/python2.7/site-packages (from unittest2->pycbc)
-    Requirement already satisfied: traceback2 in /home/ahnitz/.local/lib/python2.7/site-packages/traceback2-1.4.0-py2.7.egg (from unittest2->pycbc)
-    Requirement already satisfied: python-dateutil in /home/ahnitz/.local/lib/python2.7/site-packages (from matplotlib>=1.3.1->pycbc)
-    Requirement already satisfied: functools32 in /home/ahnitz/.local/lib/python2.7/site-packages (from matplotlib>=1.3.1->pycbc)
-    Requirement already satisfied: subprocess32 in /home/ahnitz/.local/lib/python2.7/site-packages (from matplotlib>=1.3.1->pycbc)
-    Requirement already satisfied: pytz in /home/ahnitz/.local/lib/python2.7/site-packages (from matplotlib>=1.3.1->pycbc)
-    Requirement already satisfied: cycler>=0.10 in /home/ahnitz/.local/lib/python2.7/site-packages (from matplotlib>=1.3.1->pycbc)
-    Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=1.5.6 in /home/ahnitz/.local/lib/python2.7/site-packages (from matplotlib>=1.3.1->pycbc)
-    Requirement already satisfied: olefile in /home/ahnitz/.local/lib/python2.7/site-packages (from pillow->pycbc)
-    Requirement already satisfied: pytest>=2.8 in /home/ahnitz/.local/lib/python2.7/site-packages (from astropy==2.0.3->pycbc)
-    Requirement already satisfied: urllib3<1.23,>=1.21.1 in /home/ahnitz/.local/lib/python2.7/site-packages (from requests>=1.2.1->pycbc)
-    Requirement already satisfied: idna<2.7,>=2.5 in /home/ahnitz/.local/lib/python2.7/site-packages (from requests>=1.2.1->pycbc)
-    Requirement already satisfied: chardet<3.1.0,>=3.0.2 in /home/ahnitz/.local/lib/python2.7/site-packages (from requests>=1.2.1->pycbc)
-    Requirement already satisfied: certifi>=2017.4.17 in /home/ahnitz/.local/lib/python2.7/site-packages (from requests>=1.2.1->pycbc)
-    Requirement already satisfied: linecache2 in /home/ahnitz/.local/lib/python2.7/site-packages/linecache2-1.0.0-py2.7.egg (from traceback2->unittest2->pycbc)
-    Requirement already satisfied: funcsigs; python_version < "3.0" in /home/ahnitz/.local/lib/python2.7/site-packages (from pytest>=2.8->astropy==2.0.3->pycbc)
-    Requirement already satisfied: attrs>=17.2.0 in /home/ahnitz/.local/lib/python2.7/site-packages (from pytest>=2.8->astropy==2.0.3->pycbc)
-    Requirement already satisfied: setuptools in /home/ahnitz/.local/lib/python2.7/site-packages (from pytest>=2.8->astropy==2.0.3->pycbc)
-    Requirement already satisfied: py>=1.5.0 in /home/ahnitz/.local/lib/python2.7/site-packages (from pytest>=2.8->astropy==2.0.3->pycbc)
-    Requirement already satisfied: pluggy<0.7,>=0.5 in /home/ahnitz/.local/lib/python2.7/site-packages (from pytest>=2.8->astropy==2.0.3->pycbc)
-    Installing collected packages: lalsuite
-    [31mException:
-    Traceback (most recent call last):
-      File "/home/ahnitz/.local/lib/python2.7/site-packages/pip/basecommand.py", line 215, in main
-        status = self.run(options, args)
-      File "/home/ahnitz/.local/lib/python2.7/site-packages/pip/commands/install.py", line 342, in run
-        prefix=options.prefix_path,
-      File "/home/ahnitz/.local/lib/python2.7/site-packages/pip/req/req_set.py", line 784, in install
-        **kwargs
-      File "/home/ahnitz/.local/lib/python2.7/site-packages/pip/req/req_install.py", line 851, in install
-        self.move_wheel_files(self.source_dir, root=root, prefix=prefix)
-      File "/home/ahnitz/.local/lib/python2.7/site-packages/pip/req/req_install.py", line 1064, in move_wheel_files
-        isolated=self.isolated,
-      File "/home/ahnitz/.local/lib/python2.7/site-packages/pip/wheel.py", line 345, in move_wheel_files
-        clobber(source, lib_dir, True)
-      File "/home/ahnitz/.local/lib/python2.7/site-packages/pip/wheel.py", line 316, in clobber
-        ensure_dir(destdir)
-      File "/home/ahnitz/.local/lib/python2.7/site-packages/pip/utils/__init__.py", line 83, in ensure_dir
-        os.makedirs(path)
-      File "/usr/lib64/python2.7/os.py", line 157, in makedirs
-        mkdir(name, mode)
-    OSError: [Errno 13] Permission denied: '/usr/lib64/python2.7/site-packages/lalburst'[0m
-    [33mYou are using pip version 9.0.1, however version 9.0.3 is available.
-    You should consider upgrading via the 'pip install --upgrade pip' command.[0m
-
 
 ### 1.1 Catalog of Binary Mergers
 
