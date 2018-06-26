@@ -1,10 +1,9 @@
 ---
 layout: page
+title: PyCBC Tutorials
 title: Signal Consistency and Significance
 use-site-title: true
 ---
-
-## 4. PyCBC Tutorial: Signal Consistency and Significance
 
 We will be using the [PyCBC](http://github.com/ligo-cbc/pycbc) library, which is used to study gravitational-wave data, find astrophysical sources due to compact binary mergers, and study their parameters. These are some of the same tools that the LIGO and Virgo collaborations use to find gravitational waves in LIGO/Virgo data 
 
