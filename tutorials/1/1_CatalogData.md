@@ -1,11 +1,9 @@
 ---
 layout: page
 title: PyCBC Tutorials
-subtitle: Learn how to use the PyCBC core library to study gravitational-wave data!
+subtitle: Accessing the Catalog of Binary Mergers and LIGO/Virgo Open Data
 use-site-title: true
 ---
-
-## 1. PyCBC Tutorial: Accessing the Catalog of Binary Mergers and LIGO/Virgo Open Data
 
 We will be using the [PyCBC](http://github.com/ligo-cbc/pycbc) library, which is used to study gravitational-wave data, find astrophysical sources due to compact binary mergers, and study their parameters. These are some of the same tools that the LIGO and Virgo collaborations use to find gravitational waves in LIGO/Virgo data 
 
