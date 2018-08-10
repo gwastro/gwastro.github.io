@@ -13,7 +13,7 @@ Additional [examples](http://pycbc.org/pycbc/latest/html/#library-examples-and-i
 
 #### Getting the software environment setup
 
-PyCBC is installable through pip for python2.7, but also relies on portions of the [LALSuite]() c-library. A bundled version of this suitable for use with PyCBC is also available on Mac / Linux through pip. These can be installed as follows within the notebook. For windows, we recommend use
+PyCBC is installable through pip for python2.7, but also relies on portions of the [LALSuite](https://git.ligo.org/lscsoft/lalsuite) c-library. A bundled version of this suitable for use with PyCBC is also available on Mac / Linux through pip. These can be installed as follows within the notebook. For windows, we recommend use
 of our Docker containers or the linux subsystem for windows.
 
 
