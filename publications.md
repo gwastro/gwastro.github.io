@@ -4,12 +4,8 @@ title: Publications
 subtitle: Selected Publications that use PyCBC
 ---
 
-## Scientific Publications
 
-If you use PyCBC in your scientific publications or projects, we ask that you acknowlege our work by citing the publications that describe  PyCBC and the software's [digital object identifier](https://zenodo.org/badge/latestdoi/31596861), as described in the
- [PyCBC citation guidelines.](http://pycbc.org/pycbc/latest/html/credit.html)
-
-#### Observational Results ####
+## Observational Results
  * [Observation of Gravitational Waves from a Binary Black Hole Merger.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
  * [GW151226: Observation of Gravitational Waves from a 22-Solar-Mass Binary Black Hole Coalescence.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.241103)
  * [The Rate of Binary Black Hole Mergers Inferred from Advanced LIGO Observations Surrounding GW150914.](http://iopscience.iop.org/article/10.3847/2041-8205/833/1/L1/meta)
@@ -22,7 +18,7 @@ If you use PyCBC in your scientific publications or projects, we ask that you ac
  * [Constraining the nuclear equation of state with GW170817](https://arxiv.org/abs/1804.08583)
  * [Constraints on nonlinear tides due to p-g mode coupling from the neutron-star merger GW170817](https://arxiv.org/abs/1808.07013)
 
-#### Papers describing PyCBC Methods and Algorithms ####
+## Papers describing PyCBC Methods and Algorithms
  * PyCBC Inference: A Python-based parameter estimation toolkit for compact binary coalescence signals. Free preprint at [arxiv:1807.10312](https://arxiv.org/abs/1807.10312)
  * PyCBC Live: Rapid Detection of Gravitational Waves from Compact Binary Mergers. [Phys. Rev. D 98, 024050 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.024050). Free preprint at [arxiv:1805.11174](https://arxiv.org/abs/1805.11174)
  * Designing a template bank to observe compact binary coalescences in Advanced LIGO's second observing run. Free prerint at [arXiv:1705.01845](https://arxiv.org/abs/1705.01845)
@@ -32,7 +28,7 @@ If you use PyCBC in your scientific publications or projects, we ask that you ac
  * FINDCHIRP: An algorithm for detection of gravitational waves from inspiraling compact binaries. Open access article at [Phys. Rev. D 85, 122006 (2012)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.85.122006)
  * A chi-squared time-frequency discriminator for gravitational wave detection. [Phys. Rev. D 71, 062001 (2005)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.71.062001). Free preprint at [gr-qc/0405045](https://arxiv.org/abs/gr-qc/0405045)
 
-#### Other astrophysics publications using PyCBC ####
+## Other astrophysics publications using PyCBC 
  * [Implementing a search for aligned-spin neutron star-black hole systems with advanced ground based gravitational wave detectors.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.082004) Free preprint at [arXiv:1405.6731](https://arxiv.org/abs/1405.6731)
  * [Validating gravitational-wave detections: The Advanced LIGO hardware injection system.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.062002) Free preprint at [arXiv:1612.07864](https://arxiv.org/abs/1612.07864)
  
