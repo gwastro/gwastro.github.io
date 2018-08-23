@@ -31,6 +31,7 @@ subtitle: Selected Publications that use PyCBC
 ## Other astrophysics publications using PyCBC 
  * [Implementing a search for aligned-spin neutron star-black hole systems with advanced ground based gravitational wave detectors.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.082004) Free preprint at [arXiv:1405.6731](https://arxiv.org/abs/1405.6731)
  * [Validating gravitational-wave detections: The Advanced LIGO hardware injection system.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.062002) Free preprint at [arXiv:1612.07864](https://arxiv.org/abs/1612.07864)
+ * [Searching for the full symphony of black hole binary mergers.](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.023004>) Free preprint at [arXiv:1709.09181](https://arxiv.org/abs/1709.09181)
  
 ## In the News
  * [Python Scientific Use Cases](https://www.datacamp.com/community/blog/python-scientific-computing-case), November 2017, datacamp.com
