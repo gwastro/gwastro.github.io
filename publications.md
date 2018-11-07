@@ -17,6 +17,7 @@ subtitle: Selected Publications that use PyCBC
  * [Measuring the viewing angle of GW170817 with electromagnetic and gravitational waves](http://iopscience.iop.org/article/10.3847/2041-8213/aac6c1/meta)
  * [Constraining the nuclear equation of state with GW170817](https://arxiv.org/abs/1804.08583)
  * [Constraints on nonlinear tides due to p-g mode coupling from the neutron-star merger GW170817](https://arxiv.org/abs/1808.07013)
+ * [1-OGC: The first open gravitational-wave catalog of binary mergers from analysis of public Advanced LIGO data](https://arxiv.org/abs/1811.01921)
 
 ## Papers describing PyCBC Methods and Algorithms
  * PyCBC Inference: A Python-based parameter estimation toolkit for compact binary coalescence signals. Free preprint at [arxiv:1807.10312](https://arxiv.org/abs/1807.10312)
