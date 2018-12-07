@@ -35,6 +35,7 @@ subtitle: Selected Publications that use PyCBC
  * [Searching for the full symphony of black hole binary mergers.](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.023004>) Free preprint at [arXiv:1709.09181](https://arxiv.org/abs/1709.09181)
  
 ## In the News
+ * [LIGO Makes Vital Contribution to New Gravitational Wave Discoveries](https://scitechdaily.com/ligo-makes-vital-contribution-to-new-gravitational-wave-discoveries/), December 2018, scitechdaily.com
  * [Python Scientific Use Cases](https://www.datacamp.com/community/blog/python-scientific-computing-case), November 2017, datacamp.com
  * [Why we should give credit to code creators](http://iopscience.iop.org/article/10.1088/2058-7058/30/3/37/pdf), March 2017, Physics World.
   * [High throughput computing helps LIGO confirm Einstein's last unproven theory](https://phys.org/news/2016-03-high-throughput-ligo-einstein-unproven.html), March 9, 2016, Phys.org.
