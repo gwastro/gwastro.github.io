@@ -24,7 +24,7 @@ description: Analyze gravitational-wave data, find signals, and study their para
 # List of links in the navigation bar
 navbar-links:
   Documentation: "http://pycbc.org/pycbc/latest/html/"
-  Tutorials: "tutorials"
+  Tutorials: "https://github.com/gwastro/PyCBC-Tutorials"
   Publications: "publications"
   Contact: "contact"
   Github: "http://github.com/gwastro/pycbc"
