@@ -39,7 +39,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "https://raw.githubusercontent.com/gwastro/pycbc-logo/master/pycbc_logo_notext.svg"
+title-img: "https://raw.githubusercontent.com/gwastro/pycbc-logo/master/pycbc_logo_name.png"
 
 # --- Background colour/image options --- #
 
