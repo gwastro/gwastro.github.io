@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "https://raw.githubusercontent.com/gwastro/pycbc-logo/master/pycbc_logo_name.png"
+title: PyCBC
 subtitle: Free and open software to study gravitational waves.
 use-site-title: true
 ---
