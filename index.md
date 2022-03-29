@@ -40,4 +40,3 @@ One way to start using PyCBC on your computer is to install one of our [Docker c
 [![DOI](https://zenodo.org/badge/31596861.svg)](https://zenodo.org/badge/latestdoi/31596861)
 [![PyPI version](https://badge.fury.io/py/PyCBC.svg)](https://badge.fury.io/py/PyCBC)
 [![Build Status](https://travis-ci.org/gwastro/pycbc.svg?branch=master)](https://travis-ci.org/gwastro/pycbc)
-[![Code Health](https://landscape.io/github/gwastro/pycbc/master/landscape.svg?style=flat)](https://landscape.io/github/gwastro/pycbc/master)
